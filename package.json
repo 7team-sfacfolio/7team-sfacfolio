@@ -9,8 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "format": "prettier --cache --write .",
     "preview": "vite preview",
-    "prepare": "husky install",
-    "pre-commit": "eslint --cache ."
+    "prepare": "husky install"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
