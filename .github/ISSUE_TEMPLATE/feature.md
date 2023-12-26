@@ -1,6 +1,6 @@
 ---
-name: "[Feat] Login 페이지 구현"
-about: Login 페이지 구현
+name: Feature
+about: Feature Issue
 title: "[Feat] "
 labels: ''
 assignees: ''
@@ -14,3 +14,6 @@ assignees: ''
 ## 추가 사항
 - 회원가입 페이지 작성하실 분들은 미리 말씀해주세요!
 - handleLogin 사용법 handleLogin(email, password)
+
+## 데드라인
+~ 2023.12.31
