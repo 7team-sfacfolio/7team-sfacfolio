@@ -1,0 +1,16 @@
+---
+name: "[Feat] Login 페이지 구현"
+about: Login 페이지 구현
+title: "[Feat] "
+labels: ''
+assignees: ''
+
+---
+
+## 구현 내용
+- handleLogin 함수 작성
+- 회원가입 바로가기 버튼 제작
+
+## 추가 사항
+- 회원가입 페이지 작성하실 분들은 미리 말씀해주세요!
+- handleLogin 사용법 handleLogin(email, password)
